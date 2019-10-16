@@ -1,2 +1,0 @@
-
-MC5010 is a three-axis mCube MEMS gyroscope. The operational range is ± 125/250/500/1000/2000DPS at resolutions of 6, 7, 8, 10, 12, and 14-bits. The gyroscope’s operational ranges and resolutions are both selectable. Configuration and control is via an I2C slave interface. A small block of non-volatile memory retains device and calibration parameters. A simple security feature prevents device resolution and calibration parameters from being modified. Any design differences between revisions are noted where necessary.
